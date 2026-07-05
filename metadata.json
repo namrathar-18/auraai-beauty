@@ -1,6 +1,0 @@
-{
-  "name": "AuraAI Beauty",
-  "description": "Premium AI-powered beauty commerce and consultant platform featuring AI Skin Analysis, AI Shade Matcher, AI Virtual Makeup Studio, and AI BeautyGPT.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

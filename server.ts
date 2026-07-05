@@ -18,7 +18,7 @@ function getGeminiClient(): GoogleGenAI {
       apiKey: key,
       httpOptions: {
         headers: {
-          "User-Agent": "aistudio-build",
+          "User-Agent": "auraai-beauty",
         },
       },
     });
